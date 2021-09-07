@@ -1,7 +1,7 @@
 ---
 title: Blog noticies
 seo:
-  title: Blog
+  title: Blog noticies
   description: This is the blog page
   extra:
     - name: 'og:type'
