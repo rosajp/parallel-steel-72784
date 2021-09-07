@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Blog noticies
       keyName: property
     - name: 'og:description'
       value: This is the blog page
@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Blog
+      value: Blog noticies
     - name: 'twitter:description'
       value: This is the blog page
     - name: 'twitter:image'
