@@ -13,7 +13,7 @@ sections:
       developers, designers and entrepreneurs who need a sleek, modern SaaS
       site.
     actions:
-      - label: Llegir més
+      - label: CONTINUAR LLEGINT
         url: /features
         style: primary
   - section_id: features
