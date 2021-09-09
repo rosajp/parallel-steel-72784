@@ -27,10 +27,13 @@ sections:
       - title: Adherits a Vàlua
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          La Fundació Tutelar Família i Societat està adherida a la Plataforma
+          Vàlua.
+
+          Vàlua és una taula d’entitats socials sense ànim de lucre de Sabadell
+          que treballa en xarxa per la igualtat d’oportunitats a Sabadell. A dia
+          d’avui, la formem 24 entitats de la ciutat.
         actions:
           - label: Learn More
             url: /features
