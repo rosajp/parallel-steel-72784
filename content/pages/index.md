@@ -35,7 +35,7 @@ sections:
           que treballa en xarxa per la igualtat d’oportunitats a Sabadell. A dia
           d’avui, la formem 24 entitats de la ciutat.
         actions:
-          - label: Learn More
+          - label: LLEGIR
             url: /features
             style: secondary
             has_icon: true
