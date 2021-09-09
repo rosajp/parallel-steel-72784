@@ -6,9 +6,12 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Fundació
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      A la Fundació Privada Tutelar Família i Societat treballem per a donar la
+      cobertura i el reconeixement dels drets a les persones amb discapacitat de
+      la comarca del Vallès Occidental.Azimuth is the perfect theme for
+      developers, designers and entrepreneurs who need a sleek, modern SaaS
+      site.
     actions:
       - label: Learn More
         url: /features
