@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Fundació
+    title: La fundació
     content: >
       A la Fundació Privada Tutelar Família i Societat treballem per a donar la
       cobertura i el reconeixement dels drets a les persones amb discapacitat de
